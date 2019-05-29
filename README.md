@@ -39,7 +39,7 @@ Enter, Enter, Enter
 
 `git checkout <branch_name>` - change branch
 
-`git checkout -d <branch_name>` - delete branch
+`git branch -d <branch_name>` - delete branch
 
 `git add *`
 
